@@ -222,6 +222,11 @@ img {
     margin-right: -8px;
   }
 }
+hr {
+  background-color: #fff;
+  border-top: 2px dashed #8c8b8b;
+  padding: 0 auto;
+}
 .footer {
   width: 100%;
   border-top: 2px dashed silver;
